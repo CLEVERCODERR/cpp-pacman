@@ -1,6 +1,6 @@
 # C++ Pac-Man
 
-A console-based Pac-Man game implemented in **C++** using **object-oriented programming**, **grid-based movement**, and real-time keyboard input.
+I created a console-based Pac-Man game implemented in **C++** using **object-oriented programming**, **grid-based movement**, and real-time keyboard input.
 
 ## Features
 - Grid-based game board rendered in the console
